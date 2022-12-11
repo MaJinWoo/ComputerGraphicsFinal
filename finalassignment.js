@@ -178,6 +178,7 @@ function initNodes(Id) {
     }
 
 }
+
 //전위 순회 (rood 먼저 방문)
 function traverse(Id) {
 
